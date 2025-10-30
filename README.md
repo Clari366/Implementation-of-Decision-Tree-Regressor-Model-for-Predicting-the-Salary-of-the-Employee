@@ -71,11 +71,17 @@ ISNULL() AND SUM()
 DATA HEAD FOR SALARY
 <img width="1100" height="187" alt="318745663-7f5cc54c-0c4d-4ba5-9b38-65ade5e28a01" src="https://github.com/user-attachments/assets/cf0da2be-0d8d-4e86-8982-c4e10f1df163" />
 
+mean squared error:
+
 <img width="1100" height="40" alt="318745802-98f67052-b838-4313-bffa-6669d988205e" src="https://github.com/user-attachments/assets/0742968a-4c2d-4d20-b22b-fb8c64b832d8" />
 
-<img width="1090" height="76" alt="318748006-9e48bef7-60e4-40a5-881c-6edd2e47a138" src="https://github.com/user-attachments/assets/55fae0d6-0809-4479-8cfc-f31a1db4405e" />
+r2 value:
 
-<img width="1116" height="90" alt="318746273-0e29307f-7447-42ac-89ba-df9feffcafc2" src="https://github.com/user-attachments/assets/75ef84c1-c889-4f1e-a2b4-1b115d55a514" />
+<img width="1065" height="41" alt="318779545-e6f5cab9-dab9-4c69-bb0e-6fa0abee1da0" src="https://github.com/user-attachments/assets/b7534833-b7eb-473a-a42b-b619d927dddd" />
+
+data prediction:
+ 
+<img width="311" height="38" alt="318779650-92b5c1d6-e495-4eaa-9a9a-8eb3a37ae0bc" src="https://github.com/user-attachments/assets/1b24ce72-d2f5-4ee6-b038-6bfc793a40a2" />
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
